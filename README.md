@@ -45,9 +45,3 @@ Abhi
 
 ---
 
-## Future Improvements
-
-- File or database storage
-- Money transfer between accounts
-- Multiple user system
-- Enhanced security features
